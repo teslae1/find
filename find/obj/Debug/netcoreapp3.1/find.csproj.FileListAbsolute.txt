@@ -1,0 +1,13 @@
+C:\Users\KarlMogensen\source\repos\find\find\bin\Debug\netcoreapp3.1\find.exe
+C:\Users\KarlMogensen\source\repos\find\find\bin\Debug\netcoreapp3.1\find.deps.json
+C:\Users\KarlMogensen\source\repos\find\find\bin\Debug\netcoreapp3.1\find.runtimeconfig.json
+C:\Users\KarlMogensen\source\repos\find\find\bin\Debug\netcoreapp3.1\find.runtimeconfig.dev.json
+C:\Users\KarlMogensen\source\repos\find\find\bin\Debug\netcoreapp3.1\find.dll
+C:\Users\KarlMogensen\source\repos\find\find\bin\Debug\netcoreapp3.1\find.pdb
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.AssemblyInfoInputs.cache
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.AssemblyInfo.cs
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.csproj.CoreCompileInputs.cache
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.dll
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.pdb
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.genruntimeconfig.cache
