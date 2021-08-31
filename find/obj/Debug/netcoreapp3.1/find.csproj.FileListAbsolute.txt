@@ -11,3 +11,4 @@ C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.csproj
 C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.dll
 C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.pdb
 C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.genruntimeconfig.cache
+C:\Users\KarlMogensen\source\repos\find\find\obj\Debug\netcoreapp3.1\find.csproj.AssemblyReference.cache
